@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Cinema_Pos\Cinema_Pos\bin\Debug\net6.0-windows\Cinema_Pos.exe
+C:\Users\User\Desktop\Cinema_Pos\Cinema_Pos\bin\Debug\net6.0-windows\Cinema_Pos.deps.json
+C:\Users\User\Desktop\Cinema_Pos\Cinema_Pos\bin\Debug\net6.0-windows\Cinema_Pos.runtimeconfig.json
+C:\Users\User\Desktop\Cinema_Pos\Cinema_Pos\bin\Debug\net6.0-windows\Cinema_Pos.dll
+C:\Users\User\Desktop\Cinema_Pos\Cinema_Pos\bin\Debug\net6.0-windows\Cinema_Pos.pdb
+C:\Users\User\Desktop\Cinema_Pos\Cinema_Pos\obj\Debug\net6.0-windows\Cinema_Pos.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Cinema_Pos\Cinema_Pos\obj\Debug\net6.0-windows\Cinema_Pos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cinema_Pos\Cinema_Pos\obj\Debug\net6.0-windows\Cinema_Pos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cinema_Pos\Cinema_Pos\obj\Debug\net6.0-windows\Cinema_Pos.AssemblyInfo.cs
+C:\Users\User\Desktop\Cinema_Pos\Cinema_Pos\obj\Debug\net6.0-windows\Cinema_Pos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cinema_Pos\Cinema_Pos\obj\Debug\net6.0-windows\Cinema_Pos.dll
+C:\Users\User\Desktop\Cinema_Pos\Cinema_Pos\obj\Debug\net6.0-windows\refint\Cinema_Pos.dll
+C:\Users\User\Desktop\Cinema_Pos\Cinema_Pos\obj\Debug\net6.0-windows\Cinema_Pos.pdb
+C:\Users\User\Desktop\Cinema_Pos\Cinema_Pos\obj\Debug\net6.0-windows\Cinema_Pos.genruntimeconfig.cache
+C:\Users\User\Desktop\Cinema_Pos\Cinema_Pos\obj\Debug\net6.0-windows\ref\Cinema_Pos.dll
+C:\Users\User\Desktop\Cinema_Pos\Cinema_Pos\obj\Debug\net6.0-windows\Cinema_Pos.Properties.Resources.resources
+C:\Users\User\Desktop\Cinema_Pos\Cinema_Pos\obj\Debug\net6.0-windows\Cinema_Pos.MainForm.resources
